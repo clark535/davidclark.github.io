@@ -1,5 +1,5 @@
 * {
-  font-family: Georgia;
+  font-family: Georgia, Times, serif;
 }
 
 p {
@@ -7,5 +7,5 @@ p {
 }
 
 h3 {
-  font-family: Times
+  font-family: Georgia
 }
