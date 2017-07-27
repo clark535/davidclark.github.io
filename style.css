@@ -1,3 +1,7 @@
+.info {
+  font-align: center;
+}
+
 * {
   font-family: Georgia, Times, serif;
   text-align: left;
@@ -31,8 +35,4 @@ h5 {
 
 h6 {
   font-weight: bold;
-}
-
-.info {
-  font-align: center;
 }
