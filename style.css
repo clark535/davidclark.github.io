@@ -2,13 +2,16 @@
   font-align: center;
 }
 
+body {
+  border: 6px solid white;
+  border-radius: 8px;
+}
+
 * {
   font-family: Georgia, Times, serif;
   text-align: left;
   background-color: DarkBlue;
   color: White;
-  border: 6px solid white;
-  border-radius: 8px;
 }
 
 h3 {
