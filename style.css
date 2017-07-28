@@ -1,9 +1,14 @@
 .name {
   font-align: center;
+  font-weight: bold;
+  text-size: large;
 }
 
 .info {
   font-align: center;
+  font-family: Georgia;
+  font-weight: bold;
+  font-style: italic;
 }
 
 body {
@@ -18,16 +23,6 @@ body {
   text-align: justify;
   background-color: MidnightBlue;
   color: White;
-}
-
-h3 {
-  font-family: Georgia;
-  font-weight: bold;
-  font-style: italic;
-}
-
-h1 {
-  font-weight: bold;
 }
     
 h2 {
