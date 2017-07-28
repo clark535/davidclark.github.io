@@ -1,7 +1,7 @@
 .name {
   font-align: center;
   font-weight: bold;
-  text-size: large;
+  font-size: 40px;
 }
 
 .info {
@@ -20,7 +20,6 @@ body {
 
 * {
   font-family: Georgia, Times, serif;
-  text-align: justify;
   background-color: MidnightBlue;
   color: White;
 }
@@ -28,17 +27,21 @@ body {
 h2 {
   font-weight: bold;
   text-decoration: underline;
+  text-align: justify;
 }
 
 h4 {
   font-weight: bold;
+  text-align: justify;
 }
 
 h5 {
   font-weight: bold;
   font-style: italic;
+  text-align: justify;
 }
 
 h6 {
   font-weight: bold;
+  text-align: justify;
 }
