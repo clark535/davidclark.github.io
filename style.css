@@ -1,11 +1,11 @@
 .name {
-  font-align: center;
+  text-align: center;
   font-weight: bold;
   font-size: 40px;
 }
 
 .info {
-  font-align: center;
+  text-align: center;
   font-family: Georgia;
   font-weight: bold;
   font-style: italic;
