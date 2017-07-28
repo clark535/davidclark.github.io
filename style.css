@@ -5,8 +5,8 @@
 body {
   border: solid;
   border-color: white;
-  border-radius: 8px;
-  border-width: 25px;
+  border-radius: 16px;
+  border-width: 40px;
 }
 
 * {
