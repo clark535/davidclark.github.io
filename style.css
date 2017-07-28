@@ -3,9 +3,10 @@
 }
 
 body {
-  border: 6px solid white;
+  border: solid;
+  border-color: white;
   border-radius: 8px;
-  border-width: thick;
+  border-width: 25px;
 }
 
 * {
