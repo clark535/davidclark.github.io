@@ -4,7 +4,8 @@
 
 body {
   border: 6px solid white;
-  border-radius: 16px;
+  border-radius: 8px;
+  border-width: thick;
 }
 
 * {
