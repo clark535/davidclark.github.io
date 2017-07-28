@@ -4,13 +4,13 @@
 
 body {
   border: 6px solid white;
-  border-radius: 8px;
+  border-radius: 16px;
 }
 
 * {
   font-family: Georgia, Times, serif;
   text-align: center;
-  background-color: DarkBlue;
+  background-color: MidnightBlue;
   color: White;
 }
 
