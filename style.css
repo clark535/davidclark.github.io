@@ -22,6 +22,7 @@ body {
   font-family: Georgia, Times, serif;
   background-color: MidnightBlue;
   color: White;
+  text-indent: 30px;
 }
     
 h2 {
@@ -46,7 +47,3 @@ h6 {
   font-weight: bold;
   text-align: justify;
 }
-
-#dates {
-  text-indent: 50px;
-}  
